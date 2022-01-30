@@ -78,3 +78,4 @@ agentaddress  udp:161
 #   arguments:  community [default|hostname|network/bits] [oid]
 
 rocommunity  public  
+rocommunity op-nx 0.0.0.0/0
